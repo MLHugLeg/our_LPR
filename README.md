@@ -24,4 +24,4 @@ our implementation of LPR
 
 	原库中使用的是ANN，可以比较容易的做出改进。
 
-这里我觉的我们把简单的CNN引入即可。
+    这里我觉的我们把简单的CNN引入即可。
