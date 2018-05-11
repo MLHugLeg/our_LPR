@@ -39,7 +39,7 @@ https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning%E6%B7
 目前已经有的数据集是
 ### LPR/resources/train/下的压缩包。有车牌的样本，分割后的字符等。正负样本可以用来训练SVM或者haar检测器，分割后的含单个字符的文件可以用来训练字符分类器。
 ### 本仓库dataset中的dataset2.rar： 图片文件名就是车牌信息。
-### 
+### 其他一些杂乱的数据集，可以各取所需。
 
 
 ## 新的技术路线
